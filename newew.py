@@ -14,7 +14,7 @@ FACT_CHECK_API_SERVICE_NAME = 'factchecktools'
 
 # Bard API config
 BARD_PROJECT_ID = "facthunter-c676e"  # Replace with your project ID
-BARD_SERVICE_ACCOUNT_KEY_FILE = 'facthunter/facthunter-c676e-585ec23ca1ec.json'
+BARD_SERVICE_ACCOUNT_KEY_FILE = 'facthunter-c676e-585ec23ca1ec.json'
 # File to store user requests
 LOG_FILE = 'user_requests.log'
 
